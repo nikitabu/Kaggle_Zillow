@@ -1,4 +1,4 @@
-# Kaggle_Zillow
+# Kaggle: Zillows's Southern California Housing Price Prediction Competition
 
 This was the second Kaggle competition I participated in, following up on my experience with prediction Moscow housing prices in the Sberbank competition.
 
